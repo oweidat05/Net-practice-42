@@ -2,8 +2,7 @@
 # Level 4 – Communication Between Networks Requires a Router
 
 ## 🖼️ Network Diagram
-![Router Gateway Diagram](../diagrams/level4.png)
-
+![Level 4 Diagram](../diagrams/level4.jpg)
 ## 📘 Overview
 
 This example introduces the concept of routing between networks.
