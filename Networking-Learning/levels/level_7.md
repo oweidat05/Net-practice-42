@@ -1,8 +1,7 @@
 # Level 7 – Packets Travel Hop by Hop
 
 ## 🖼️ Network Diagram
-![Multi-Router Path](../diagrams/level7.png)
-
+![Level 7 Diagram](../diagrams/level7.jpg)
 ## 📘 Overview
 
 This example demonstrates how packets travel across multiple routers to reach their destination.
