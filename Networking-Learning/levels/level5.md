@@ -2,8 +2,7 @@
 # Level 5 – Specific Routes vs Default Gateway
 
 ## 🖼️ Network Diagram
-![Routing Decision Diagram](../diagrams/level5.png)
-
+![Level 5 Diagram](../diagrams/level5.jpg)
 ## 📘 Overview
 
 This example introduces the concept of routing decisions.  
