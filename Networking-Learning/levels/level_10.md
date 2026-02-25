@@ -1,8 +1,7 @@
 # Level 10 – End-to-End Routing Across a Complex Network
 
 ## 🖼️ Network Diagram
-![Full Network Routing](../diagrams/level10.png)
-
+![Level 10 Diagram](../diagrams/level10.jpg)
 ## 📘 Overview
 
 This level represents a complete real-world routing scenario.
